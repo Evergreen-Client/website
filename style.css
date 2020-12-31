@@ -40,6 +40,9 @@ body {
 
 #notice {
     font-size: xxx-large;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -60%);
     top: 60%;
 }
 
